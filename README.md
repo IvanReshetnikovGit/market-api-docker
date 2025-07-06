@@ -9,8 +9,9 @@ This project allows you to deploy the API and MySQL database with a single comma
 
     Run the following command in the terminal:
 
-docker-compose up
-result would be there: http://localhost:5000/swagger/index.html
+    docker-compose up
+    
+    result would be there: http://localhost:5000/swagger/index.html
 
 📡 What's Included
 
